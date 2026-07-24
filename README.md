@@ -14,7 +14,7 @@ Tuesday is the most inactive day of the week.
 Only 2 users tracked their body fat percentage, and only 11 users tracked their weight at all.
 Sleep patterns: Active users show more consistent sleep duration than inactive users.
 
-##Reommendations
+## Reommendations
 Targeted Reminders: Implement smart notifications to prompt movement on Tuesdays and/or to track body weight.
 Improve tracking weight data, it might be too inconvenient for users.
 Emphasize the connection between daily physical activity and presumably better sleep quality.
