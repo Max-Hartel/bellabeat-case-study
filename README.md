@@ -2,7 +2,7 @@
 Data analysis case study for Bellabeat using SQL to analyze smart device usage data and find trends to help make business recommendations.
 
 ## Data source and Limitations
-The data is public data from [FitBit Fitness Tracker Data] (https://www.kaggle.com/datasets/arashnic/fitbit/data).
+The data is public data from [FitBit Fitness Tracker Data] (https://www.kaggle.com/datasets/arashnic/fitbit/data).  
 Small sample size: 34 users and not all of them tracked data; data is from 2016; lack of demographic context.
 
 ## Tools used and Data preparation
