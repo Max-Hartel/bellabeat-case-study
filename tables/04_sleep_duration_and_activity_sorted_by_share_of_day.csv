@@ -1,0 +1,5 @@
+user_type,pct_unterbrechungsfrei,pct_unruhig,pct_sehr_unruhig,total_users_in_group
+Sedentary,50.0,50.0,0.0,2
+Lightly Active,25.0,50.0,25.0,4
+Fairly Active,16.7,66.7,16.7,6
+Very Active,50.0,50.0,0.0,8
